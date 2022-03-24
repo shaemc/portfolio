@@ -82,6 +82,12 @@ a:hover {
     padding: 10px;
 }
 
+
+embed {
+    width: 1200px;
+    height: 700px;
+}
+
 /* colors I liked
     red: #a34035;
     tan: #EDCBB1;
